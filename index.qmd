@@ -15,7 +15,7 @@ about:
       href: https://github.com/644543577/PA446_A2
     - text: LinkedIn
       icon: file-text
-      href: https://www.linkedin.com/jobs/
+      href: https://www.linkedin.com/feed/
   id: ppc
 ---
 
