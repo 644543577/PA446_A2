@@ -19,4 +19,5 @@ about:
   id: ppc
 ---
 
+
 I'm Xin Zhiwei, a North China University of Technology alumnus from Beijing with a focus on cloud computing. Skilled in languages like C/C++, Java, Python, and R, and knowledgeable in data structures, Vue, and Spring Boot, I've interned at Kingsoft Cloud Technology as a server operations engineer, enhancing my data processing and problem-solving capabilities. Currently pursuing a Master's in MSCA at UIC, I aim to leverage my technical expertise and experience in data analysis roles, contributing significantly to decision-making and data analysis fields.
