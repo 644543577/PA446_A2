@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PA446_Assignment2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - resume.qmd
+
+format:
+  html:
+    mainfont: arial
+    fontsize: 1.0rem
+    fontcolor: "#4D65B7"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+    css: styles.css
+    toc: true
+    theme: cosmo
+
+
+
+

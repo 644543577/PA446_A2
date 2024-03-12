@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zhiwei Xin",
+    "section": "",
+    "text": "I’m Xin Zhiwei, a North China University of Technology alumnus from Beijing with a focus on cloud computing. Skilled in languages like C/C++, Java, Python, and R, and knowledgeable in data structures, Vue, and Spring Boot, I’ve interned at Kingsoft Cloud Technology as a server operations engineer, enhancing my data processing and problem-solving capabilities. Currently pursuing a Master’s in MSCA at UIC, I aim to leverage my technical expertise and experience in data analysis roles, contributing significantly to decision-making and data analysis fields."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "未命名.html",
+    "href": "未命名.html",
+    "title": "resume",
+    "section": "",
+    "text": "Education Cloud Computing Technology and Application (2018.09-2021.07) Computer Science and Technology (2021.09-2023.07) Attended the University of Science & Technology Beijing and North China University of Technology. Ranked top 5% in professional achievements and first in school entrance score. Main courses included Advanced Mathematics, Networking Technology, Network Management, Python Programming, Java, SQL Server, and more. Graduation projects: Application of Cloud Computing in the Internet of Things College Student Dormitory Management System Based on Springboot+Vue\nExperiences Internship at Kingsoft Network Technology Company Position: Server Operations Development Engineer Responsibilities: Maintained cloud platform service, handled faults, maintained OpenStack cloud platform components, carried out daily inspections, and compiled operation and maintenance automation scripts.\nProjects Application of Cloud Computing in the Internet of Things: Explored cloud computing applications in IoT, focusing on enhancing connectivity and data processing. College Student Dormitory Management System Based on Springboot+Vue: Developed a comprehensive dormitory management system, showcasing skills in web development and database management."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "Name: Zhiwei Xin  Date of birth: September 4th, 1999  Email: zhiweixin1@gmail.com  Educational background: Master  Tel: 3124512076"
+  },
+  {
+    "objectID": "resume.html#basic-information",
+    "href": "resume.html#basic-information",
+    "title": "resume",
+    "section": "",
+    "text": "Name: Zhiwei Xin  Date of birth: September 4th, 1999  Email: zhiweixin1@gmail.com  Educational background: Master  Tel: 3124512076"
+  },
+  {
+    "objectID": "resume.html#educational-background",
+    "href": "resume.html#educational-background",
+    "title": "resume",
+    "section": "Educational background",
+    "text": "Educational background\nNorth China University of Technology - Computer Science and Technology  Main courses: Special Topic of C Language Programming (99), C++Language Programming (96), Wechat Applet Development (94), Data Structure (90), Digital Image Processing (92), MySQL Database Application (90), WeChat Applet Development, Web Design and Production, Software Testing, Computer Networks Basis and Application, Photoshop Topic  Graduation design: College Student Dormitory Management System Based on Springboot+Vue"
+  },
+  {
+    "objectID": "resume.html#personal-experience",
+    "href": "resume.html#personal-experience",
+    "title": "resume",
+    "section": "Personal experience",
+    "text": "Personal experience\nInternship experience - Kingsoft Network - Technology Company - Server Operations Develop Engineer  1. Maintaining operation of cloud platform service  2. Handling faults of cloud platform and customer cloud host  3. Maintaining operation of all components of the OpenStack cloud platform Carrying out daily inspection of the service running  4. status of the host node where each resource pool is located  5. Changing and upgrading the resource pool  6. Compiling operation and maintenance automation scripts"
+  },
+  {
+    "objectID": "resume.html#professional-skills",
+    "href": "resume.html#professional-skills",
+    "title": "resume",
+    "section": "Professional skills",
+    "text": "Professional skills\nProfessional skills: Familiar with c/c++ language programming, data structure (c language), Html, Vue, PS, Spring boot, MySQL, SQL server, Java, Python  Language skills: English CET-4, with good oral English expression ability"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "resume",
+    "section": "Projects",
+    "text": "Projects\nApplication of Cloud Computing in the Internet of Things: Explored cloud computing applications in IoT, focusing on enhancing connectivity and data processing.  College Student Dormitory Management System Based on Springboot+Vue: Developed a comprehensive dormitory management system, showcasing skills in web development and database management."
+  }
+]
